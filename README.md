@@ -2,10 +2,10 @@
 
 **Một diện mạo riêng cho mỗi lần mở app.**
 
-[Tải bản ổn định](https://github.com/memchoxd/xzalo-releases/releases/latest) · [Tải fix09 thử nghiệm](https://github.com/memchoxd/xzalo-releases/releases/tag/v2026.10.15-fix09) · [Lịch sử phiên bản](https://github.com/memchoxd/xzalo-releases/releases)
+[Tải bản mới nhất · fix09](https://github.com/memchoxd/xzalo-releases/releases/latest) · [Chi tiết fix09](https://github.com/memchoxd/xzalo-releases/releases/tag/v2026.10.15-fix09) · [Lịch sử phiên bản](https://github.com/memchoxd/xzalo-releases/releases)
 
-> **fix09 · Google Drive qua GmsCore — Pre-release**  
-> Đã có APK để tải và cài đè thủ công. Sao lưu trên tài khoản test báo thành công; Drive có 26 gói với danh mục 390 ảnh. Chưa xác minh khôi phục đầy đủ bản sao lưu Zalo gốc. Xem hướng dẫn GmsCore và kết quả kiểm tra trong [Release fix09](https://github.com/memchoxd/xzalo-releases/releases/tag/v2026.10.15-fix09). Luồng cập nhật ổn định trong app vẫn dùng fix08.
+> **fix09 · Google Drive qua GmsCore — Latest**  
+> XZalo đã có thể nhận fix09 qua **Cài đặt XZalo → Kiểm tra cập nhật** hoặc khi mở lại app. Với fix08, đây là cập nhật tùy chọn. Tính năng Drive còn thử nghiệm: sao lưu trên tài khoản test có danh mục 390 ảnh trong 26 gói; chưa xác minh khôi phục đầy đủ bản sao lưu Zalo gốc. Xem hướng dẫn GmsCore và kết quả kiểm tra trong [Release fix09](https://github.com/memchoxd/xzalo-releases/releases/tag/v2026.10.15-fix09).
 
 Kho này chứa APK đã phát hành và thông tin cập nhật của XZalo. Mã nguồn được quản lý trong repo riêng tư.
 
