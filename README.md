@@ -2,10 +2,10 @@
 
 **Một diện mạo riêng cho mỗi lần mở app.**
 
-[Tải bản mới nhất · fix09](https://github.com/memchoxd/xzalo-releases/releases/latest) · [Chi tiết fix09](https://github.com/memchoxd/xzalo-releases/releases/tag/v2026.10.15-fix09) · [Lịch sử phiên bản](https://github.com/memchoxd/xzalo-releases/releases)
+[Tải bản mới nhất · fix10](https://github.com/memchoxd/xzalo-releases/releases/latest) · [Chi tiết fix10](https://github.com/memchoxd/xzalo-releases/releases/tag/v2026.10.15-fix10) · [Lịch sử phiên bản](https://github.com/memchoxd/xzalo-releases/releases)
 
-> **fix09 · Google Drive qua GmsCore — Latest**  
-> XZalo đã có thể nhận fix09 qua **Cài đặt XZalo → Kiểm tra cập nhật** hoặc khi mở lại app. Với fix08, đây là cập nhật tùy chọn. Tính năng Drive còn thử nghiệm: sao lưu trên tài khoản test có danh mục 390 ảnh trong 26 gói; chưa xác minh khôi phục đầy đủ bản sao lưu Zalo gốc. Xem hướng dẫn GmsCore và kết quả kiểm tra trong [Release fix09](https://github.com/memchoxd/xzalo-releases/releases/tag/v2026.10.15-fix09).
+> **fix10 · Bật sẵn Google Drive qua GmsCore — Latest**  
+> GmsCore và tuỳ chọn sao lưu ảnh Drive được bật sẵn khi cài mới hoặc nâng cấp từ bản cũ. Nếu chủ động tắt sau đó, app giữ lựa chọn. Nhận bản này qua **Cài đặt XZalo → Kiểm tra cập nhật** hoặc mở lại app; cập nhật tuỳ chọn cho fix08/fix09. Đã qua 29 kiểm tra Android, 18 unit test và kết nối Drive chỉ đọc trên Samsung Android 15. Chưa xác minh khôi phục toàn bộ ảnh từ bản sao lưu Zalo gốc.
 
 Kho này chứa APK đã phát hành và thông tin cập nhật của XZalo. Mã nguồn được quản lý trong repo riêng tư.
 
@@ -16,6 +16,10 @@ Kho này chứa APK đã phát hành và thông tin cập nhật của XZalo. M�
 3. Vào **Cá nhân → XZalo** để chỉnh các tính năng hoặc chọn **Kiểm tra cập nhật**.
 
 Package: `com.mcxdshinko.zalo`. Cài song song với Zalo gốc, không cần root hay mở khóa bootloader. Thiết bị đã thử: Samsung SM-A145F, Android 15.
+
+## Google Drive qua GmsCore
+
+Cài [ReVanced GmsCore chính thức](https://github.com/ReVanced/GmsCore/releases/latest), tự đăng nhập Google rồi chọn chia sẻ tài khoản và cấp quyền Drive cho XZalo một lần. Từ fix10, công tắc đã bật sẵn; không cần giữ màn hình GmsCore mở. Trong **Cài đặt XZalo → Google Drive qua GmsCore**, có hướng dẫn tài khoản và kiểm tra dữ liệu chỉ đọc. Bật sẵn không tự đăng nhập hoặc tự cấp quyền Google.
 
 ## Cập nhật trong app
 
