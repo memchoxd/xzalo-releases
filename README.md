@@ -2,10 +2,10 @@
 
 **Một diện mạo riêng cho mỗi lần mở app.**
 
-[Tải bản mới nhất · fix10](https://github.com/memchoxd/xzalo-releases/releases/latest) · [Chi tiết fix10](https://github.com/memchoxd/xzalo-releases/releases/tag/v2026.10.15-fix10) · [Lịch sử phiên bản](https://github.com/memchoxd/xzalo-releases/releases)
+[Tải bản mới nhất · fix11](https://github.com/memchoxd/xzalo-releases/releases/latest) · [Chi tiết fix11](https://github.com/memchoxd/xzalo-releases/releases/tag/v2026.10.15-fix11) · [Lịch sử phiên bản](https://github.com/memchoxd/xzalo-releases/releases)
 
-> **fix10 · Bật sẵn Google Drive qua GmsCore — Latest**  
-> GmsCore và tuỳ chọn sao lưu ảnh Drive được bật sẵn khi cài mới hoặc nâng cấp từ bản cũ. Nếu chủ động tắt sau đó, app giữ lựa chọn. Nhận bản này qua **Cài đặt XZalo → Kiểm tra cập nhật** hoặc mở lại app; cập nhật tuỳ chọn cho fix08/fix09. Đã qua 29 kiểm tra Android, 18 unit test và kết nối Drive chỉ đọc trên Samsung Android 15. Chưa xác minh khôi phục toàn bộ ảnh từ bản sao lưu Zalo gốc.
+> **fix11 · Một APK XZalo, kèm bộ cài GmsCore — Latest**  
+> Không cần tìm tải GmsCore riêng: bộ cài chính thức đã nằm trong APK XZalo (~187 MB). Cài từ màn chào hoặc mục Google Drive trong cài đặt, rồi xác nhận với Android. Máy đã có GmsCore hợp lệ sẽ dùng tiếp; Drive vẫn bật sẵn. Đã qua 38 kiểm tra Drive/bộ cài, 21 kiểm tra màn chào, 18 unit test và thử cài khi máy ảo Android 15 tắt mạng. Cập nhật tuỳ chọn cho fix08 trở lên. Chưa xác minh khôi phục toàn bộ ảnh từ bản sao lưu Zalo gốc.
 
 Kho này chứa APK đã phát hành và thông tin cập nhật của XZalo. Mã nguồn được quản lý trong repo riêng tư.
 
@@ -19,7 +19,7 @@ Package: `com.mcxdshinko.zalo`. Cài song song với Zalo gốc, không cần ro
 
 ## Google Drive qua GmsCore
 
-Cài [ReVanced GmsCore chính thức](https://github.com/ReVanced/GmsCore/releases/latest), tự đăng nhập Google rồi chọn chia sẻ tài khoản và cấp quyền Drive cho XZalo một lần. Từ fix10, công tắc đã bật sẵn; không cần giữ màn hình GmsCore mở. Trong **Cài đặt XZalo → Google Drive qua GmsCore**, có hướng dẫn tài khoản và kiểm tra dữ liệu chỉ đọc. Bật sẵn không tự đăng nhập hoặc tự cấp quyền Google.
+Chọn **Thiết lập Google Drive** trên màn chào hoặc vào **Cài đặt XZalo → Google Drive qua GmsCore → Cài GmsCore có sẵn**. Cho phép cài ứng dụng từ XZalo và xác nhận cài. Bộ cài [ReVanced GmsCore chính thức](https://github.com/ReVanced/GmsCore/releases/tag/v0.3.13.2.250932) được giữ nguyên chữ ký; không cần mạng cho bước cài này. GmsCore vẫn là ứng dụng riêng trên máy. Khi có mạng, tự đăng nhập Google và cấp quyền tài khoản/Drive một lần; không cần giữ màn hình GmsCore mở. Bật sẵn không tự đăng nhập hoặc tự cấp quyền Google.
 
 ## Cập nhật trong app
 
